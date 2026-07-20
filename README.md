@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +40,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
