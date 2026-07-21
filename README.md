@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
