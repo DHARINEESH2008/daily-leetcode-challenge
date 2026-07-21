@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +64,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
