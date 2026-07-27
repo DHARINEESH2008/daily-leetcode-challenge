@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Two Pointers
@@ -132,4 +134,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
