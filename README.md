@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0704-binary-search/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,4 +118,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 <!---LeetCode Topics End-->
