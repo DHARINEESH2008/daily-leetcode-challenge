@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
