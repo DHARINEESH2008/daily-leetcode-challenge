@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,10 +132,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0392-is-subsequence](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Greedy
