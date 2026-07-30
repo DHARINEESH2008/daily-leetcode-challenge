@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1009-complement-of-base-10-integer](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
