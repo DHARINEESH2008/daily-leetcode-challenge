@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0198-house-robber/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0707-design-linked-list](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0707-design-linked-list/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
