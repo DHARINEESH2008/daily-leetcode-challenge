@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0707-design-linked-list](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0707-design-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0509-fibonacci-number/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
