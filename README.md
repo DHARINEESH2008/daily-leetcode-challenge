@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0141-linked-list-cycle](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0707-design-linked-list](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0707-design-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0392-is-subsequence/) | Easy |
@@ -186,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
