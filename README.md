@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0575-distribute-candies](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0704-binary-search/) | Easy |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0707-design-linked-list](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0707-design-linked-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
