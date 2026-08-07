@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0575-distribute-candies](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0575-distribute-candies](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0575-distribute-candies/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
