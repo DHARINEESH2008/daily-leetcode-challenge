@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0198-house-robber/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0190-reverse-bits/) | Easy |
@@ -80,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0392-is-subsequence/) | Easy |
