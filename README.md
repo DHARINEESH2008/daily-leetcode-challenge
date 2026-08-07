@@ -43,11 +43,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/DHARINEESH2008/daily-leetcode-challenge/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
